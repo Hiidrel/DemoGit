@@ -1,0 +1,46 @@
+{
+    "projects":[
+        {
+            "name" : "project n°1",
+            "libraries" : 
+            [
+                {
+                    "name": "JDBC",
+                    "version" : "21.3.0",
+                    "server" : "server n°1",
+                },
+                {
+                    "name": "Junit",
+                    "version" : "4.13.2",
+                    "server" : "server n°2",
+                },
+                {
+                    "name": "Jersey",
+                    "version" : "3.0.3",
+                    "server" : "server n°3",
+                }
+            ]
+        },
+        {
+            "name" :"project n°2",
+            "libraries" : 
+            [
+                {
+                    "name": "JDBC",
+                    "version" : "21.3.0",
+                    "server" : "server n°1",
+                },
+                {
+                    "name": "Junit",
+                    "version" : "4.13.2",
+                    "server" : "server n°2",
+                },
+                {
+                    "name": "Jersey",
+                    "version" : "3.0.3",
+                    "server" : "server n°3",
+                }
+            ]
+        }
+    ]
+}
