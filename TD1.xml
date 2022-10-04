@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <projects>
     <project>
-        <name> Project nÂ°1 </name>
+        <name> Project n°UNOOOOOO </name>
         <libraries>
             <library>
                 <name> JDBC </name>
                 <version> 21.3.0 </version>
-                <server> server nÂ°1 </server>
+                <server> server n°1 </server>
             </library>
 
             <library>
                 <name> Junit </name>
                 <version> 4.13.2 </version>
-                <server> server nÂ°2 </server>
+                <server> server n°2 </server>
             </library>
 
             <library>
                 <name> Jersey </name>
                 <version> 3.0.3 </version>
-                <servereeeeeeeeeeeeeeee> server nÂ°3 </server>
+                <serveeeeeeeeeeeeeeeeer> server n°3 </server>
             </library>
         </libraries>
     </project>
     <project>
-    <!--project nÂ°2-->
+    <!--project n°2-->
     </project>
 </projects>
